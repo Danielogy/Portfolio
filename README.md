@@ -1,2 +1,7 @@
-# Portfolio
-Daniel Rodriguez's Portfolio
+Hello there!
+
+  My name is Daniel Rodriguez and I am a recent graduate of Middlesex County College. I graduated with a A.A.S Degree in Computer Science and I am looking to further advance my education as I am now pursuing an education at Rutgers to obtain my Bachelor's in Computer Science. My journey thus far as a computer science student has been hectic. I have gone through many stages of imposter syndrom and every now and again, I begin to doubt my abilities to code even the simplest projects. Despite these pessimistic thoughts, I have managed to pull myself above the negative reflections I have of myself. I have accomplished my goals little by little, and I have learned that despite the setbacks I have been presented, I have always managed to overcome them and get ever closer to my ultimate goal. 
+  
+  There are no words to describe the eagerness to begin my career, and I am confident that I would be an excellent fit to anyone's workplace. In the time that I've spent working at other jobs, I have learned that I am a very dependable person, very likable, and trustworthy to both my managers and coworkers. I am able to remain calm in stressful situations, which in turn is reflected to the people around me and I can create a positive enviornment regardless of the situation. Now that you know a little bit about me and my ambitions, I would like to present to you the knowledge I have aquired over the last couple years and let you be the judge of my abilities. Thank you for reading and I hope to hear from you soon!
+  
+  -Daniel Rodriguez
