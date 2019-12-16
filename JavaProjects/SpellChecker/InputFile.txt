@@ -1,0 +1,7 @@
+Let us test the spell checker in dis simple input file.
+
+We must check to make   sure dat it reads All OF THE words and
+
+puts them in    lowercase, as well as remove punctuations.
+
+Otherwise da program does not work.
