@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    width: 100%;
+    background: #2a2735;
+    color: white;
+}
+
+header{
+    font-family: cursive;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    width: 100%;
+}
+
+header h1{
+  width: 100%;
+  text-align: center;
+  font-size: 4em;
+}
+
+.container-header{
+    font-family: fantasy;
+    position: relative;
+    right: 30%;
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 45vh;
+    justify-content: flex-end;
+    align-items: center;
+    border: solid white 0px;
+}
+
+.answer-container{
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid white 0px;
+    justify-content: center;
+}
+
+.input{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type = "text"], input[type = "button"]{
+    width: 70%;
+    height: 10vh;
+    border: solid white 1px;
+    background: transparent;
+    outline: none;
+    font-size: 2em;
+    color: gold;
+    font-family: fantasy;
+    padding: 2%;
+}
+
+input[type = "button"]{
+    font-family: fantasy;
+    width: 25%;
+    background: gold;
+    color: black;
+    border: solid black 3px;
+}
+
+input[type = "button"]:hover{
+    cursor: pointer;
+    background: #f3e07b;
+    color: #364777;
+}
+
+.answer-container{
+    width: 100%;
+    height: 20vh;
+    border: solid white 0px;
+    font-size: 4em;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+    background: #8080801f;
+}
