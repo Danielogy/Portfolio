@@ -1,0 +1,1 @@
+In this program, the user enters the number of bartenders and hosts. Their basic information is inputted and for each individual bartender and host, the program will calculate and output the tip share for each employee.
